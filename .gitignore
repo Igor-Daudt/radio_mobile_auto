@@ -1,0 +1,5 @@
+# Ignorar arquivos temporários
+*.tmp
+.idea/
+__pycache__/
+temp/*
