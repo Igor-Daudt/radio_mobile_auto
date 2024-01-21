@@ -1,0 +1,26 @@
+'Radio Mobile restricted merge sources (this line for alternate OSM style server)
+'virtualearth.net
+'
+'google.com
+-------------------------------------------------------------------------------------------------
+First read the links below for the terms and conditions of each service,
+and if you agree to abide by these proceed.
+For the Radio Mobile program to enable access to each of the servers above,
+the apostrophes must be removed, and the file saved.
+Doing so, you will have access to the services subject to their copyright and usage conditions:
+-------------------------------------------------------------------------------------------------
+Pour accéder à chacun ce ces serveurs il faut enlever l'apostrophe au début de la ligne.
+Noter que ce faisant, vous accédez à des services qui sont sujets à des droits d'auteur.
+Veuillez consulter les liens suivants pour connaître les conditions qui s'appliquent:
+-------------------------------------------------------------------------------------------------
+Radyo Mobil yazýlýmýnýn menüsündeki (Düzelt>Üste resim ekle) bölümünde, yukarýdaki 
+sunuculardaki haritalarý da kullanabilmeniz için, yukarýda sýralanan adreslerin 
+baþýnda bulunan apostrof (') karakterini silmeniz ve bu dosyayý yine ayný isimle 
+saklamanýz gerekmektedir.
+Bu þekilde telif hakký olan bu servislere de eriþme hakkýnýz olacaktýr. 
+Bu iþlemi yaparak sözkonusu verileri kullanmanýz halinde aþagýdaki adreslerde 
+bulunan telif hakký þartlarýný kabul etmiþ olacaksýnýz.
+-------------------------------------------------------------------------------------------------
+http://www.microsoft.com/maps/product/terms.html
+http://www.google.com/apis/maps/terms.html
+-------------------------------------------------------------------------------------------------

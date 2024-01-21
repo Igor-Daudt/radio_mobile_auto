@@ -1,0 +1,15 @@
+srtm,SRTM - Best data - Site 1,http://www.ve2dbe.com/GetBestSRTM.aspx?site=1&tile=
+srtm,SRTM - Best data - Site 2,http://www.ve2dbe.com/GetBestSRTM.aspx?site=2&tile=
+srtm,SRTM - Best data - Site 3,http://www.ve2dbe.com/GetBestSRTM.aspx?site=3&tile=
+srtm,SRTM - 1/3 arcsecond - Site 1,http://rmw.recordist.com/srtmthird/
+srtm,SRTM - 1/3 arcsecond - Site 2,http://www.ve2dbe.com/geodata/srtmthird/
+srtm,SRTM - 1/3 arcsecond - Site 3,http://rmd.neoknet.com/srtmthird/
+srtm,SRTM - 1 arcsecond - Site 1,http://rmw.recordist.com/srtm1/
+srtm,SRTM - 1 arcsecond - Site 2,http://www.ve2dbe.com/geodata/srtm1/
+srtm,SRTM - 1 arcsecond - Site 3,http://rmd.neoknet.com/srtm1/
+srtm,SRTM - 3 arcsecond - Site 1,http://rmw.recordist.com/srtm3/
+srtm,SRTM - 3 arcsecond - Site 2,http://www.ve2dbe.com/geodata/srtm3/
+srtm,SRTM - 3 arcsecond - Site 3,http://rmd.neoknet.com/srtm3/
+land,Landcover - Site 1,http://rmw.recordist.com/landcover/
+land,Landcover - Site 2,http://www.ve2dbe.com/geodata/landcover/
+land,Landcover - Site 3,http://rmd.neoknet.com/landcover/
